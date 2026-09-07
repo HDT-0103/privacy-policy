@@ -23,5 +23,5 @@ When you grant access to your Google Calendar:
 
 5. Contact Us
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-- Email: [your-email@example.com]
-- Developer: [Your Name or Team Name]
+- Email: ngohominhngoc121@gmail.com
+- Developer: Ngô Hồ Minh Ngọc
