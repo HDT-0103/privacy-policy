@@ -14,14 +14,14 @@
 
 ## 1. Chúng tôi thu thập gì
 
-| Dữ liệu                                                    | Khi nào                                               | Dùng để làm gì                      | Lưu ở đâu                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------ | ---------------------------------------- | ---------------------------------------------- |
-| Tên hiển thị và email                                    | Chỉ khi bạn tự tạo tài khoản                     | Đăng nhập và nhận diện tài khoản | Máy chủ                                      |
-| Mã định danh thiết bị                                   | Khi bạn hỏi trợ lý văn hoá                       | Đếm hạn mức 5 lượt hỏi mỗi ngày | Máy chủ                                      |
-| Câu hỏi bạn gõ cho trợ lý                              | Khi bạn gửi câu hỏi                                | Sinh câu trả lời                      | Không lưu (xem mục 3)                       |
-| Danh sách địa danh đã đọc, đã lưu                  | Chỉ khi bạn**tự bật** Sao lưu bộ sưu tập | Khôi phục khi đổi máy               | Máy chủ                                      |
-| Số lượt mở ứng dụng, xem bài, hỏi trợ lý, chia sẻ | Luôn                                                  | Thống kê mức sử dụng                | Máy chủ,**không kèm mã thiết bị** |
-| Nhật ký sự cố                                            | Khi ứng dụng gặp lỗi                               | Sửa lỗi                                | Dịch vụ giám sát (Sentry)                  |
+| Dữ liệu | Khi nào | Dùng để làm gì | Lưu ở đâu |
+|---|---|---|---|
+| Tên hiển thị và email | Chỉ khi bạn tự tạo tài khoản | Đăng nhập và nhận diện tài khoản | Máy chủ |
+| Mã định danh thiết bị | Khi bạn hỏi trợ lý văn hoá | Đếm hạn mức 5 lượt hỏi mỗi ngày | Máy chủ |
+| Câu hỏi bạn gõ cho trợ lý | Khi bạn gửi câu hỏi | Sinh câu trả lời | Không lưu (xem mục 3) |
+| Danh sách địa danh đã đọc, đã lưu | Chỉ khi bạn **tự bật** Sao lưu bộ sưu tập | Khôi phục khi đổi máy | Máy chủ |
+| Số lượt mở ứng dụng, xem bài, hỏi trợ lý, chia sẻ | Luôn | Thống kê mức sử dụng | Máy chủ, **không kèm mã thiết bị** |
+| Nhật ký sự cố | Khi ứng dụng gặp lỗi | Sửa lỗi | Dịch vụ giám sát (Sentry) |
 
 **Ứng dụng dùng được đầy đủ mà không cần tài khoản.** Đăng nhập là tuỳ
 bạn, và chỉ phục vụ việc sao lưu bộ sưu tập.
@@ -46,7 +46,7 @@ cho bên thứ ba vì mục đích thương mại**.
   Cuộc trò chuyện chỉ tồn tại trong lúc màn hình trợ lý đang mở, đóng
   lại là mất.
 - Google xử lý dữ liệu này theo chính sách riêng của họ. Xem
-  [https://policies.google.com/privacy](https://policies.google.com/privacy).
+  <https://policies.google.com/privacy>.
 - **Đừng gõ thông tin cá nhân, mật khẩu hay dữ liệu nhạy cảm vào ô hỏi
   trợ lý.**
 - Câu trả lời do máy sinh ra nên có thể sai. Đừng dùng thay cho tư vấn
@@ -148,14 +148,14 @@ liệu, chúng tôi sẽ báo trong ứng dụng.
 
 ## 1. Information we collect
 
-| Data                                                            | When                                          | Purpose                                 | Stored                                         |
-| --------------------------------------------------------------- | --------------------------------------------- | --------------------------------------- | ---------------------------------------------- |
-| Display name and email                                          | Only if you create an account                 | Sign-in and profile identification      | Server                                         |
-| Device identifier                                               | When you use the cultural assistant           | Enforcing the 5-questions-per-day limit | Server                                         |
-| Questions you type to the assistant                             | When you send a question                      | Generating a reply                      | Not stored (see §3)                           |
-| List of landmarks read and saved                                | Only if**you enable** Collection Backup | Restoring on a new device               | Server                                         |
-| Counts of app opens, article views, assistant questions, shares | Always                                        | Usage statistics                        | Server,**without any device identifier** |
-| Crash logs                                                      | When the app fails                            | Diagnosing bugs                         | Monitoring service (Sentry)                    |
+| Data | When | Purpose | Stored |
+|---|---|---|---|
+| Display name and email | Only if you create an account | Sign-in and profile identification | Server |
+| Device identifier | When you use the cultural assistant | Enforcing the 5-questions-per-day limit | Server |
+| Questions you type to the assistant | When you send a question | Generating a reply | Not stored (see §3) |
+| List of landmarks read and saved | Only if **you enable** Collection Backup | Restoring on a new device | Server |
+| Counts of app opens, article views, assistant questions, shares | Always | Usage statistics | Server, **without any device identifier** |
+| Crash logs | When the app fails | Diagnosing bugs | Monitoring service (Sentry) |
 
 **The app is fully usable without an account.** Signing in is optional
 and serves only to back up your collection.
@@ -180,7 +180,7 @@ culture, history and travel.
 - **We do not store your questions or the replies on our servers.** A
   conversation lives only while the assistant screen is open.
 - Google processes this data under its own policy. See
-  [https://policies.google.com/privacy](https://policies.google.com/privacy).
+  <https://policies.google.com/privacy>.
 - **Do not type personal information, passwords or sensitive data into
   the assistant.**
 - Replies are machine-generated and may be inaccurate. Do not rely on
