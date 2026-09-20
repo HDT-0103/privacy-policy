@@ -1,8 +1,8 @@
 # Chính sách quyền riêng tư · Privacy Policy
 
-**Ứng dụng / Application:** Lạc Niên
-**Nhà phát triển / Developer:** Ngô Hồ Minh Ngọc
-**Liên hệ / Contact:** ngohominhngoc121@gmail.com
+**Ứng dụng / Application:** Lạc Niên  
+**Nhà phát triển / Developer:** Ngô Hồ Minh Ngọc  
+**Liên hệ / Contact:** [ngohominhngoc121@gmail.com](mailto:ngohominhngoc121@gmail.com)  
 **Hiệu lực từ / Effective date:** 20/09/2026
 
 > Bản tiếng Việt là bản chính. The Vietnamese version below is the
