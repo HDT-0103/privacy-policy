@@ -1,6 +1,6 @@
 # PRIVACY POLICY
-Effective Date: September 7, 2026
-Application: Lịch Việt Di Sản
+Effective Date: September 20, 2026
+Application: Lạc Niên
 
 1. Information We Collect
 - Device Identifier: An anonymous device ID used solely to track and limit queries to 5 daily requests.
